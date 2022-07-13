@@ -1,0 +1,13 @@
+{
+    "name": "hb/to-do-list",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hb\\ToDoList\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
